@@ -3,6 +3,11 @@
 Uma aplicação de rede social criada com **React**, **TypeScript** e **Date-fns**, que simula uma timeline com publicações e comentários, semelhante ao feed de uma rede social moderna.
 
 ---
+# :film_strip: vídeo da aplicação
+
+https://github.com/user-attachments/assets/14917197-f727-4abc-83ff-2843e576f754
+
+---
 
 ## 📚 Tecnologias
 

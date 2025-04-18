@@ -27,6 +27,28 @@ O **TypeScript** adiciona tipagem estática ao JavaScript, ajudando a evitar err
 - Garantir segurança ao manipular eventos, estados e funções (`FormEvent`, `ChangeEvent`, etc)
 - Melhorar a legibilidade e manutenção do código
 
+### ![CSS#](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+O **CSS Modules permite** escrever CSS de forma modular e com escopo local.
+Utilizado para estilizar os componentes sem risco de conflito de classes globais, com arquivos como Task.module.css, Header.module.css, etc.
+
+##
+
+📅 O **Date-fns** é uma biblioteca para manipulação e formatação de datas no JavaScript, com uma API moderna e modular. Nesta aplicação, ele foi utilizado para:
+
+Formatação de datas completas com format
+Exemplo: "05 de Abril às 12:30h"
+
+⏳ Tempo relativo ao momento atual com formatDistanceToNow
+Exemplo: "há 2 horas"
+
+Com suporte à localização em pt-BR, para garantir uma melhor experiência para usuários brasileiros.
+
+##
+
+O **Phosphor Icons** é uma biblioteca de ícones personalizáveis para React.
+🔹 Utilizado para exibir ícones de adicionar, deletar e status das tarefas de forma elegante e responsiva.
+
 ---
 
 ## ✨ Funcionalidades
@@ -65,36 +87,19 @@ src/
 - `Sidebar.tsx`: Exibe o avatar, nome, função e botão para editar perfil
 - `Post.tsx`: Renderiza um post completo com conteúdo, data e formulário de comentário
 - `Comment.tsx`: Comentário com botão de like e delete
-- `Header.tsx`: Cabeçalho da aplicação (se usado)
-- `Wrapper.tsx`: Possível estrutura externa de layout
-
-## 📦 Tecnologias
-
-- React
-- TypeScript
-- date-fns
-- CSS Modules
-- @phosphor-icons/react (ícones)
-
-📅 Formatação de datas
-Utilizamos o date-fns para formatar:
-
-format: para data completa (ex: "05 de Abril às 12:30h")
-
-formatDistanceToNow: para tempo relativo (ex: "há 2 horas")
-
-Com suporte à localização pt-BR.
+- `Header.tsx`: Cabeçalho da aplicação
+- `Wrapper.tsx`: Estrutura externa de layout
 
 ## 🚀 Como rodar o projeto
 
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/social-feed-app.git
+git clone https://github.com/matheusjsgama/social-feed-app.git
 cd social-feed-app
 ```
 
-2. Clone o repositório:
+2. Instale as dependências:
 ```bash
 npm install
 ```

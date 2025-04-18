@@ -47,6 +47,7 @@ Com suporte à localização em pt-BR, para garantir uma melhor experiência par
 ##
 
 O **Phosphor Icons** é uma biblioteca de ícones personalizáveis para React.
+
 🔹 Utilizado para exibir ícones de adicionar, deletar e status das tarefas de forma elegante e responsiva.
 
 ---

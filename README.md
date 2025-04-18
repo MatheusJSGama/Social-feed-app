@@ -27,12 +27,12 @@ O **TypeScript** adiciona tipagem estática ao JavaScript, ajudando a evitar err
 - Garantir segurança ao manipular eventos, estados e funções (`FormEvent`, `ChangeEvent`, etc)
 - Melhorar a legibilidade e manutenção do código
 
-### ![CSS#](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### ![CSS Modules](https://img.shields.io/badge/CSS%20Modules-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 O **CSS Modules permite** escrever CSS de forma modular e com escopo local.
 Utilizado para estilizar os componentes sem risco de conflito de classes globais, com arquivos como Task.module.css, Header.module.css, etc.
 
-##
+### ![Date Library](https://img.shields.io/badge/Date--fns-Utilitário%20de%20Datas-029f5b?style=for-the-badge)
 
 📅 O **Date-fns** é uma biblioteca para manipulação e formatação de datas no JavaScript, com uma API moderna e modular. Nesta aplicação, ele foi utilizado para:
 
@@ -44,7 +44,7 @@ Exemplo: "há 2 horas"
 
 Com suporte à localização em pt-BR, para garantir uma melhor experiência para usuários brasileiros.
 
-##
+### ![Phosphor Icons](https://img.shields.io/badge/Phosphor%20Icons-3F3F46?style=for-the-badge&logo=iconify&logoColor=white)
 
 O **Phosphor Icons** é uma biblioteca de ícones personalizáveis para React.
 
